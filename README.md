@@ -1,6 +1,6 @@
-##[ABOUT ME]
-##[FABLAB@ MESCE]
-##[SYLLABUS]
+## [ABOUT ME]
+## [FABLAB@ MESCE]
+## [SYLLABUS]
 
 
 
