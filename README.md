@@ -1,4 +1,5 @@
-I am Aleesha M,persuing a degree in Computer Science and Engineering at MESCE,Kuttippuram
+##[ABOUT ME]
+I am Aleesha M,persuing a degree in Computer Science and Engineering at MESCE,Kuttippuram.I did my schooling from Silver Hills HSS and  GVHSS for Girls Nadakkavu,Calicit.I am passionate about learning new things and also looking forward for creative and innovative workshops.
 
 
 
