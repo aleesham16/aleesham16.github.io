@@ -4,6 +4,7 @@ Fab lab @ MESCE is the only Fab Lab in the Malabar region . It was decided to co
 ![852236424_74353 1](https://user-images.githubusercontent.com/32714429/31788544-e3919782-b4c3-11e7-8242-415d46c0277b.jpg)
 
 - Laser Cutting/Engraving Machine
+![852240798_74849 1](https://user-images.githubusercontent.com/32714429/31788680-4e68085c-b4c4-11e7-8679-7aeeb0aa3832.jpg)
 
 
 - Vinyl Cutter
