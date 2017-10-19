@@ -11,3 +11,4 @@ Fab lab @ MESCE is the only Fab Lab in the Malabar region . It was decided to co
 ![vinyl cutter](https://user-images.githubusercontent.com/32714429/31788752-9d6705f2-b4c4-11e7-8076-9b7d0b4a4e51.jpg)
 
 - CNC Milling machine
+![852238882_74044 1](https://user-images.githubusercontent.com/32714429/31788841-e3aa7f6c-b4c4-11e7-990a-63a3d26edadc.jpg)
