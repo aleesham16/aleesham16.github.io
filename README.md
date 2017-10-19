@@ -15,6 +15,8 @@
 
 <hr>
 ## [FABLAB@ MESCE](http://aleesham16.github.io/fablab)
+
+<hr>
 ## [TABLE OF CONTENTS]
 
 - DAY 1 -[INTRODUCTION TO FABLAB](http://aleesham16.guthub.io/day1)
@@ -23,6 +25,7 @@
 - DAY 4 -[VINAYIL CUTTING](http://aleesham16.guthub.io/day4)
 - DAY 5 - [LASER PRINTING](http://aleesham16.guthub.io/day5)
 - DAY 6 - [LASER PRINTING](http://aleesham16.guthub.io/day6)
+<hr>
 
 
 
