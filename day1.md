@@ -1,4 +1,8 @@
 ##[INTRODUCTION TO FABLAB]
+
+ FABLAB.. Its merely "a place where we can make almost anything". FabLab digital fabrication laboratories were set up to inspire people and entrepreneurs to turn their ideas into new products and prototypes by giving them access to a range of advanced digital manufacturing technologies. The idea was conceived by renowned inventor and scientist, Professor Neil Gershenfeld at the prestigious Massachusetts Institute of Technology (MIT).
+   
+
 Fab lab @ MESCE is the only Fab Lab in the Malabar region . It was decided to conduct a 2 week training session for the students of the college to famialarize the machines to the students and to provide a hands-on workshop on the same . The equipments in our institution includes :
 - 3-D printer
 ![852236424_74353 1](https://user-images.githubusercontent.com/32714429/31788544-e3919782-b4c3-11e7-8242-415d46c0277b.jpg)
