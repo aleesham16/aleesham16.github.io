@@ -1,4 +1,4 @@
-## [ABOUT ME](http://aleesham16.github.io/about me)
+## [ABOUT ME](http://aleesham16.github.io/aboutme)
 <hr>
 ## [FABLAB@ MESCE]()
 ## [SYLLABUS]()
