@@ -22,7 +22,7 @@
 - DAY 1 -[INTRODUCTION TO FABLAB](http://aleesham16.github.io/day1)
 - DAY 2 -[ GITHUB ACCOUNT AND DOCUMENTAION](http://aleesham16.github.io/day2)
 - DAY 3 -[3D DESINGING AND PRINTING](http://aleesham16.github.io/day3)
-- DAY 4 -[VINAYIL CUTTING](http://aleesham16.github.io/day4)
+- DAY 4 -[VINYL CUTTING](http://aleesham16.github.io/day4)
 - DAY 5 - [LASER PRINTING](http://aleesham16.github.io/day5)
 - DAY 6 - [LASER PRINTING](http://aleesham16.github.io/day6)
 <hr>
