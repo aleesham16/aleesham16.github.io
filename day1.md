@@ -1,6 +1,11 @@
 ##[INTRODUCTION TO FABLAB]
 
  FABLAB.. Its merely "a place where we can make almost anything". FabLab digital fabrication laboratories were set up to inspire people and entrepreneurs to turn their ideas into new products and prototypes by giving them access to a range of advanced digital manufacturing technologies. The idea was conceived by renowned inventor and scientist, Professor Neil Gershenfeld at the prestigious Massachusetts Institute of Technology (MIT).
+ 
+ 
+ 
+ 
+ 
  ![neil](https://user-images.githubusercontent.com/32714429/31789081-bea59c3c-b4c5-11e7-8f62-273544687977.jpg)
 
    
