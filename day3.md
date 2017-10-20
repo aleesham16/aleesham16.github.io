@@ -18,6 +18,10 @@ GitHub is a web-based Git or version control repository and Internet hosting ser
 - Give a suitable repository name with extension .github.io
 - Select ‘CREATE REPOSITORY’
 
+![ghg](https://user-images.githubusercontent.com/32714429/31832443-e18c5734-b57b-11e7-942f-eda74dc5cdeb.png)
+
+
+
 ## Step 4
 
 
