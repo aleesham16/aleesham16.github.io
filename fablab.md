@@ -45,4 +45,8 @@ A symbol / label can be produced using a Vinyl Cutter such as a ‘Sticker Machi
 <img src="https://user-images.githubusercontent.com/30692817/29534368-976981d0-866a-11e7-8959-bbd4e3429d7c.jpg" alt="Smiley face" height="300" width="600">
 
 <img src="https://user-images.githubusercontent.com/30692817/29534384-a83c49ac-866a-11e7-89f6-0bd979e9c4e7.jpg" alt="Smiley face" height="300" width="600">
+
+
+
+
 [GO BACK](aleesham16.github.io)
