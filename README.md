@@ -25,7 +25,7 @@
 - DAY 4 -[3D DESINGING AND PRINTING](http://aleesham16.github.io/day4)
 - DAY 5 -[VINYL CUTTING](http://aleesham16.github.io/day5)
 - DAY 6 - [LASER PRINTING](http://aleesham16.github.io/day6)
-- DAY 7 - [LASER PRINTING](http://aleesham16.github.io/day7)
+- DAY 7 - [ELECTRONIC PRODUCTION AND CNC](http://aleesham16.github.io/day7)
 <hr>
 
 
