@@ -1,7 +1,7 @@
 
 ## VINYL CUTTING
 
-Vinyl cutting machine is a simple machine used for different printing purposes like stickers, Shirt printing etc. The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets of thin self-adhesive plastic.
+Vinyl cutting machine is a simple machine used for different printing purposes like stickers, Shirt printing etc. The vinyl cutter uses a small knife to precisely cut the outline of a picture into a sheet or piece of vinyl. The knife moves side to side and turns, while the vinyl is moved beneath the knife. What results from the cut process is an image cut into the material. The material is then ‘weeded’ where the excess parts of the picture are removed. It is possible to remove the positive parts, which would give a negative sticker, or you could weed the negative parts, giving a positive sticker. Removing the letters would be like removing the positive, giving a negative image of the word, etc.
 
 CUTSHOP SOFTWARE.
 
