@@ -14,6 +14,7 @@ STEPS
 
 ![img_20171021_104520](https://user-images.githubusercontent.com/32714429/31848449-379b6d88-b5e8-11e7-8c3d-98f555562107.jpg)
 
+![img_20171021_104453](https://user-images.githubusercontent.com/32714429/31848457-6860a19a-b5e8-11e7-89f1-b200529d9aba.jpg)
 
 
 
