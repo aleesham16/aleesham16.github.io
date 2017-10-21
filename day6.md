@@ -15,20 +15,13 @@ The laser cutter is one of the most useful tools in a modern shop. Laser cutters
  
      - STEP 5: Choose between Vector and Raster options
          
-      - STEP 6: In the Print Preferences, click the “Auto Focus” button. This will ensure the laser is the proper distance away from                     whatever you’re cutting to get the most accurate cuts.
+     - STEP 6: In the Print Preferences, click the “Auto Focus” button. This will ensure the laser is the proper distance away from                     whatever you’re cutting to get the most accurate cuts.
 
-       - STEP 7: Place the material and set X,Y Coordinates
+      - STEP 7: Place the material and set X,Y Coordinates
 
-                
-Once on, open the case, place your material where ever you plan to cut. This is where the rulers from the image come in                  handy, hopefully the laser cutter you’re using has built in rulers to help you situate things. (If you’re placing                        something in the upper left corner, and the bed is raised to high, do the following step first).
-
-                
-       
-Once everything is placed, you may need to adjust the bed. If you look on the front control panel of the Laser Cutter,                  there should be a focus button. If you push that, and then the down arrow, you should see the bed lower. Keep lowering                  the bed until you have enough space that the laser will not come into contact with your materials. Extra space here is                  fine, we’re going to let the machine focus itself later.
-
-- STEP 8: [Optional] Test run the design file Click GO with the lid of the laser cutter open. Laser Cutter won’t print with the                   lid open, so it’s a good way to do a test run on your piece.
-- STEP 9:Switch on the air pump to exhaust the gases produced durning cutting
--STEP 19:Press GO with lid closed to cutting your design
+      - STEP 8: [Optional] Test run the design file Click GO with the lid of the laser cutter open. Laser Cutter won’t print with the                   lid open, so it’s a good way to do a test run on your piece.
+      - STEP 9:Switch on the air pump to exhaust the gases produced durning cutting
+      - STEP 10:Press GO with lid closed to cutting your design
         
         
        
