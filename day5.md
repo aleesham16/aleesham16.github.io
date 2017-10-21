@@ -12,3 +12,5 @@ STEPS
 - Now you can adjust the size of vinyl to be used : Right click on the image and select Properties. ( The size is in mm .)
 - Your design is ready to be cut. Set the machine appropriately as follows:
 
+
+
