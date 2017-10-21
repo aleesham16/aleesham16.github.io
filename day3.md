@@ -8,6 +8,10 @@ GitHub is a web-based Git or version control repository and Internet hosting ser
 
 
 ## Step 1
+![tutf](https://user-images.githubusercontent.com/32714429/31848564-2b8f1952-b5ea-11e7-9574-1c5c49350754.png)
+
+
+
 ## Step 2
 
 ![29624522-ec7f9c62-8846-11e7-80f5-71c4f30799b5](https://user-images.githubusercontent.com/32714429/31832281-49b2a116-b57b-11e7-9f4c-d837a96eb829.png)
