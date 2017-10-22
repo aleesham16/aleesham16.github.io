@@ -4,8 +4,7 @@
 ## ABOUT ME
 <hr>
 
-
-                                        I am ALEESHA M. ,persuing a degree in Computer Science and Engineering at MESCE,Kuttippuram.I                                           did my schooling from Silver Hills Hr Sec school and GVHSS for girls nadakavu,Calicut. I am                                             passionate about learning new things and also looking forward for creative and innovative                                               workshops.  
+  I am ALEESHA M. ,persuing a degree in Computer Science and Engineering at MESCE,Kuttippuram.I                                           did my schooling from Silver Hills Hr Sec school and GVHSS for girls nadakavu,Calicut. I am                                             passionate about learning new things and also looking forward for creative and innovative                                               workshops.  
  <hr>
  
 
