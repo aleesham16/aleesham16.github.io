@@ -21,9 +21,7 @@
 <hr>
 ### TABLE OF CONTENTS
 
--![images 3](https://user-images.githubusercontent.com/32714429/31859839-cc46251c-b6c5-11e7-847d-2c54cfcd358b.jpg)
-
-  -[INTRODUCTION TO FABLAB](http://aleesham16.github.io/day1)
+- DAY 1  -[INTRODUCTION TO FABLAB](http://aleesham16.github.io/day1)
 - DAY 2 -[INTRODUCTION TO SOFTWARE USED](http://aleesham16.github.io/day2)
 - DAY 3 -[ GITHUB ACCOUNT AND DOCUMENTAION](http://aleesham16.github.io/day3)
 - DAY 4 -[3D DESINGING AND PRINTING](http://aleesham16.github.io/day4)
