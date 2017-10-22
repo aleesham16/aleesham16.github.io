@@ -1,7 +1,7 @@
 ![images](https://user-images.githubusercontent.com/32714429/31784823-eaafc810-b4b7-11e7-8efe-92d4b79a5547.png)
 
 
-## ABOUT ME
+
 <hr>
 
 ![images 1](https://user-images.githubusercontent.com/32714429/31859625-251a478e-b6c3-11e7-8712-9c5f4ded7aee.jpg)
